@@ -1,5 +1,6 @@
 # This file was taken from RSS tasks 2019Q3
-
+# Idea
+*.idea
 # Logs
 logs
 *.log
